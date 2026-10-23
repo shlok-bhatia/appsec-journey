@@ -26,7 +26,7 @@ ls
 ```
 
 ### `cat` — Read File Contents
-Displays the contents of a file.
+Displays the file content.
 
 ```bash
 cat readme
