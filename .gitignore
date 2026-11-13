@@ -1,3 +1,13 @@
+# Sensitive files
+notes/bandit-passwords.md
+sshkey.private
+
+# SSH keys
+*.pem
+*.key
+*.private
+id_rsa
+id_ed25519
 # Python virtual environments
 venv/
 .venv/
